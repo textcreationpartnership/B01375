@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grana angelica: or, The rare and singular vertues and uses of those angelical pils, discovered and left to posterity, by Doctor Patrick Anderson, late physician of Edinburgh.</title>
+            <author>Anderson, Patrick, fl. 1618-1635.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01375</idno>
+            <idno type="STC">Wing A3101</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[129]</idno>
+            <idno type="EEBO-CITATION">99886920</idno>
+            <idno type="PROQUEST">ocm99886920</idno>
+            <idno type="VID">181455</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181455)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[130])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Grana angelica: or, The rare and singular vertues and uses of those angelical pils, discovered and left to posterity, by Doctor Patrick Anderson, late physician of Edinburgh.</title>
+                  <author>Anderson, Patrick, fl. 1618-1635.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:181455:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>GRANA ANGELICA: OR, <hi>The rare and ſingular Vertues and <g ref="char:V">Ʋ</g>ſes of thoſe Angelical PILS, diſcovered and left to poſterity, by Doctor</hi> Patrick Anderſon, <hi>late Phyſician of</hi> Edinburgh.</head>
+            <head>
+               <figure>
+                  <head>DOCTOR · PATRICK · ANDERSON ·</head>
+                  <figDesc>portrait of Doctor Anderson</figDesc>
+               </figure>
+            </head>
+            <p>AMongſt the moſt eminent Phyſicians of this age, the late famous Doctor <hi>ANDERSON</hi> is moſt deſervedly to be eſteemed; for he ſpared no Travel nor Study, that he might be ſerviceable to the Diſeaſed of his Countrey; and returning from his Travels, with a mind fully enriched, amongſt other things, he brought from <hi>Venice</hi> this ineſteemable Jewel; whoſe Vertues and Uſes are theſe;
+<list>
+                  <item>
+                     <note place="margin">For the pains of the Stomach.</note> I. They exceedingly comfort and ſtrengthen the Stomach; they reſtore the loſt appetite, they purge Choller and Melancholly, but chief<g ref="char:EOLhyphen"/>ly Phlegm and Wateriſh Matter: They cleanſe the ſame of all putrid, groſs and thick humors; they comfort the Intrals, open obſtructions, and diſperſe all the pain of theſe places.</item>
+                  <item>
+                     <note place="margin">For diſeaſes of the Head.</note> II. They ſtrengthen the Head and all the Senſes, but chiefly that of hearing and ſight, whoſe weakneſs and pain they remove; they help the giddineſs thereof and the Megrim: and as they comfort and purge the Stomach, ſo they do the like both to Head and Heart, and have this excellent faculty, that being mixed with other Phyſick, they correct its malignity, and make it unhurtful to the Stomach, and are there<g ref="char:EOLhyphen"/>fore to be preferred to all other gentle and eaſie Medicines.</item>
+                  <item>
+                     <note place="margin">For the diſ<g ref="char:EOLhyphen"/>eaſes of the Billy.</note> III. They are wonderfully helpful to all diſeaſes of the Womb, and all other maladies belonging to Women, that proceed from coldneſs by chance or conſtitution: for they ſafely and eaſily purge and empty the Belly, without pain or grippings, and carry out by their proper paſſages, all thoſe vicious humors and and other dregs that are ſtopped on a Women after her delivery: and they much help barrenneſs that proceedeth from uncleanneſs of the Womb, and cleanſe Women from their White-flux, and ſo fitteth and enableth them for Conception. Alſo they may be taken by Women with Child, for yielding them eaſe in their bellies gently, without any hazard of miſcarrying at all, one every night before Supper.</item>
+                  <item>
+                     <note place="margin">Againſt worms.</note> IV. They kill and choak all Worms that are bred in the Wombs of Children, big-bellied Women that are bound in the belly, and of men, yea, not any body, that frequently uſe theſe Pils, can breed Worms at all.</item>
+                  <item>
+                     <note place="margin">For the bound belly of women with child.</note> V. And if in women with child the belly be bound, which often happeneth, you muſt have a ſpecial care, that in the time of her birth, the great Guts, being extended with excrements, do not augment her pains in travail: to avoid which, it is my counſel, that in ſuch caſes, you have alway ready in your Cabinet ſome of theſe Pils, eſpecially ſeeing neither Gliſters nor Suppoſiters are ſo convenient, becauſe they trouble and irritate theſe lower places about the womb, which may cauſe abortion: then theſe Pils, yea, even in the time of delivery (as has been obſerved by many) being taken in a new laid ſoft roſted egge, have afforded great help, without any danger at all.</item>
+                  <item>
+                     <note place="margin">For the pain <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the head <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> vapours <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>om the ſto<g ref="char:EOLhyphen"/>mach.</note> VI. They do not indeed purge the whole Body, but they gently purge and throw out in the ſiege, all the Choller that is ſeated in the Sto<g ref="char:EOLhyphen"/>mach and Intrals: therefore they are to be given to them who are tormented with a ſore head, by reaſon of the noiſom vapours that con<g ref="char:EOLhyphen"/>tinually aſcend thereto from the Stomach. And for the ſame reaſon they are to begiven to them that are Blear-eyed, and to them, who by the growth of Choller are continually thirſty, <note place="margin">F<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r bleard<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: missing" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> eyes, dryneſs and paleneſs.</note> and have their mouth and tongue always dry, and find an heat and loathing, with an overturning in their Stomach. They are moreover to be given to thoſe that are againſt nature, over-much pale: and who have need to be delivered of ſuperfluous humours of the body.</item>
+                  <item>
+                     <note place="margin">Stone, Sour<g ref="char:EOLhyphen"/>vey, Chol<g ref="char:EOLhyphen"/>lick, Dropſie For the Green-ſick<g ref="char:EOLhyphen"/>neſs and Palſie.</note> VII. They hinder likewiſe the procreation of many diſeaſes, and the corruption of the food: and wonderfully defend the body againſt ſurfeits in eating or drinking, which moſt frequently after ſleep beget corrupt and crude humors, and ſo are a ſoveraign help for the Gravel, Scurvey, Chollick and Dropſie, and Green-ſickneſs, and Palſie, one every day.</item>
+                  <item>VIII. If the head, ſubject to defluxions, keepeth intelligence with a moiſt and fuming Stomach, and threatneth the joynts with a deluge, theſe <hi>Angelick grains</hi> will ſo ſtop their Streams, that famous Phyſician hath promiſed they ſhall be free from the Gout, and all other diſeaſes of the Joynts, <note place="margin">Againſt Catharres and Deſlu<g ref="char:EOLhyphen"/>xions in the joynts.</note> who ſhall uſe theſe Pils frequently and familiarly: for by them the daily crudities and ſuperfluities of the Meat being taken away, and carried into the ſink of the belly, they cannot harm the joynts at all, nor procure diſeaſes, which otherwiſe could not be avoided; whilſt the more noble parts, being oppreſſed therewith, could not but, for their own preſervation, ſend them to be quartered in the baſer parts of the Body.</item>
+                  <item>
+                     <note place="margin">The way of taking them.</note> IX. You may uſe of them at your pleaſure, whether late or early, or at any hour of the day, before meat, or after meat, or in the time of feeding; but being taken in time of Supper, they defend the head (as we have ſaid) from thoſe vapours and fumes that aſcend to it in the night. They are familiarly taken in time of meat, without trouble to the Mind, or harm to the Body, and not any hinderance of your buſineſs. The Doſe is, Seven, Nine or Eleven, and that three or four times a month, as neceſſity or the temper of the Body ſhall require. They give not many ſtools, neither do they work violently, nor ſuddenly: Sometimes they open the belly twelve hours after they are taken, ſometimes ſooner, according to the diſpoſition of the Stomach and Body; and they may be uſed without any ſpecial care of rules in your dyet, whether in Summer or Winter, in Froſt or in Thaw Weather, without any inconveniency to enſue thereupon.</item>
+                  <item>
+                     <note place="margin">For chil<g ref="char:EOLhyphen"/>dren and old men.</note> X. They are of ſo eaſie and innocent operation, that they may be given to children and decript old men, and that moſt ſecurely: and to delicate perſons who are not much imployed in labour, and others that cannot away with other purgatives, may eaſily ſwallow down theſe. They are an enemy to moſt diſeaſes, and have much friendſhip to the nobleſt Intrals of the body, and is of ſo wholſome and general uſe, and ſo much both known and approved in this Nation, that none who have once tryed the ſame, and found the good effects thereof, will willingly want the ſame again, when they ſtand in need of Phyſick, which the may have ready for all ſudden accidents, which through the neglect of theſe Grains, if they ſuffer them to take rooting, will not afterward be removed ſo eaſily. But he that deſires to live a long life and an healthful, that every day he uſe one of them at his mid-day, and evening refreſhment, he will ſoon find the benefit of them. They are ex<g ref="char:EOLhyphen"/>ceeding good for the wind in the Stomach.</item>
+                  <item>XI. We ſuppoſe there be ſew or none in this Kingdom, but knows of the uſe and excellency of Doctor <hi>Anderſons</hi> Angelical Pils, who perhaps, are ignorant of the dangerous abuſe and counterfeiting of them by ſundry unskilful women, whereby ſome perſons of great worth have been caſt in hazard of their Lives, inſtead of being bettered: and becauſe this is a buſineſs of high concernment to every Nation, for preven<g ref="char:EOLhyphen"/>tion of ſuch inconveniences to the people for the future, it is thought very fit to ſignifie, that theſe upright Pils are now only made by the ſaid Doctors two Daughters at their own dwelling houſes, and no where elſe; and for your more ſecurity, call for a printed Paper, and Do<g ref="char:EOLhyphen"/>ctor <hi>Anderſons</hi> own Picture at it: without that Picture, they are none of his Pils. And all the Boxes are ſealed with her Name and Arms, <hi>K. A.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Theſe Pils are to be ſold by Miſtris <hi>Roddis,</hi> at the Sign of the Cradle in Kings-ſtreet <hi>Weſtminſter,</hi> and no where elſe in or about the City of <hi>London.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
